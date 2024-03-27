@@ -1,0 +1,6 @@
+[submodule "pico-client"]
+	path = pico-client
+	url = https://github.com/Nekuskus/RPiPicoNetworkClient.git
+[submodule "rpi-router"]
+	path = rpi-router
+	url = https://github.com/Nekuskus/RPiNetworkRouter.git
